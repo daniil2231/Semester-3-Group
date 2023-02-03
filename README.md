@@ -30,4 +30,5 @@ Technologies we worked with:
 -Tensorflow 
 -Docker
 -Twilio SMS services 
+-JIRA
 -Outlook API (we chose to work with Outlook because Sioux is already using it as the company-wide email)
